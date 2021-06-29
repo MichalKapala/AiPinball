@@ -16,4 +16,3 @@
 3. **AIvAI**- Możliwość obserwacji walki dwóch róznych modeli przeuczonych na identycznych danych.
 4. **1v1**- Możliwość gry przeciwko ludzkiemu przeiwnikowi.
 
-*Uwaga* Projekt jest dopiero w fazie rozwoju. Możliwe liczne błędy!
